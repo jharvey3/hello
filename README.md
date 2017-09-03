@@ -1,0 +1,1 @@
+Going through the "How to write Go Code."  This is the first project the usual Hello World.  
